@@ -1,1 +1,1 @@
-# Simon-game-as-an-application-of-JS-
+# Simon game (application of JS)
